@@ -1,0 +1,19 @@
+body {
+  font-family: Monospace, Courier New;
+  margin: 38px;
+/*   background grey  */
+  background: #a19d9d; 
+/*   color black */
+  color: #0a0a0a;
+}
+
+h1 {
+  color: #0a0a0a;
+}
+
+.post {
+  margin-bottom: 2em;
+  padding: 1em;
+  background: white;
+  border-left: 4px solid #007acc;
+}
